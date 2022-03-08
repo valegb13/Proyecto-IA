@@ -6,7 +6,7 @@
 
 ## Dataset: 
 ***
-https://drive.google.com/file/d/1WxWT3YEmCwVLJBkjhqT2r3-bNwA-0CxV/view?usp=sharing
+https://github.com/valegb13/Proyecto-IA/blob/main/Dataset.csv
 
 ## Código: 
 ***
@@ -27,8 +27,10 @@ https://github.com/valegb13/Proyecto-IA/blob/main/TCOYC.ipynb
 ## Métodos:
 ***
   -Regresión lineal.
+  -DecisionTree Regressor.
+  -RandomForest Regressor.
   
+## Video:
 ***
-##Video:
-
 https://youtu.be/Zf5bs4uyEP8
+***
